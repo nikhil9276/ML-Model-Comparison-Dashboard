@@ -63,6 +63,28 @@ Each model is evaluated on the same dataset using standard performance metrics a
 
 ---
 
+## 🧱 Setup Instructions
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/nikhil9276/ML-Model-Comparison-Dashboard.git
+cd ML-Model-Comparison-Dashboard
+
+# 2. (Optional) Create a virtual environment
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the app
+streamlit run app.py
+```
+---
+
 ## 🚧 **What's Next?**
 
 - 🗂 Upload your own datasets  
