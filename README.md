@@ -13,6 +13,10 @@
 Welcome to the **ML Model Comparison Dashboard** — a sleek, interactive tool designed to simplify the comparison of different machine learning classification models. Whether you're a data science learner or a professional, this dashboard makes performance evaluation seamless and visual.
 
 ---
+## 🚀 Deployed App
+
+You can check out the live version of the project here:  
+[🔗 Click to open the deployed app](https://ml-model-comparison-dashboard.streamlit.app/)
 
 ## 🔍 **Key Features**
 
