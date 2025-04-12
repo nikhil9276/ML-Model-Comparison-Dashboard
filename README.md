@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👀+Welcome+to+ML+Model+Dashboard!;🔍+Compare+ML+models+visually+%26+intuitively!;🚀+Built+with+Streamlit+%2B+Python!&font=Fira+Code&center=true&width=550&height=45&color=1E3A8A&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=👀+Welcome+to+ML+Model+Dashboard!;🔍+Compare+ML+models+visually+%26+intuitively!;🚀+Built+with+Streamlit+%2B+Python!&font=Fira+Code&center=true&width=550&height=45&color=FF5733&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
